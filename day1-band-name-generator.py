@@ -17,6 +17,6 @@ pet_name = input("What's the name of your pet?\n")
 print("Your band name is " + city + " " + pet_name)
 
 #5. Make sure the input cursor shows on a new line
-# \n means new line, the input given on a new line
+# \n means new line, the input given is printed on a new line
 
 
