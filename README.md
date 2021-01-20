@@ -3,5 +3,6 @@
 ### Mastering Python by building 100 projects in 100 days. Learning to build websites, games, apps, plus scraping and data science
 
 ## DAY 1 OF 100-DaysOfCode-Python
-I created  my [day1-band-name-generator-start.py](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day1-band-name-generator-start.py) <br>
-The challenge instructions are commented out within the first few lines of the file and right below it is the Code.
+I created  my [day1-band-name-generator.py](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day1-band-name-generator.py) <br>
+The challenge instructions are commented out within the first few lines of the file and right below it is the Code.<br>
+Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
