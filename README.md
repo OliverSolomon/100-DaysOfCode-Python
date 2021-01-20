@@ -5,3 +5,5 @@ Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The
 Created [day1-band-name-generator.py](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day1-band-name-generator.py) <br>
 The challenge instructions are commented out within the first few lines of the file and right below it is the Code.<br>
 Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
+
+## Day 2 Of 100-DaysOfCode-Python
