@@ -7,3 +7,5 @@ The challenge instructions are commented out within the first few lines of the f
 Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
 
 ## Day 2 Of 100-DaysOfCode-Python
+Data Types, Numbers, Operations, Type Conversion, f-Strings
+Built a tip calculator
