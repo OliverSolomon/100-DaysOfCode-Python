@@ -1,8 +1,10 @@
 # Band Name Generator
 # Instructions:
-#   Write a program that welcomes the user to the Band Name Generator. 
-#   The Name Generator prompts a user for the name of the City they grew up in and the name of their pet. 
-#   The Name Generator then combines these two names to give the user their Band Name.
+# Write a program that welcomes the user to the Band Name Generator. 
+# The Name Generator prompts a user for the name of the City they grew up in and the name of their pet. 
+# The Name Generator then combines these two names to give the user their Band Name.
+
+# Source Code
 
 #1. Creates a greeting that welcomes the user to the Band Name Generator.
 print("Welcome to the Band Name Generator.")
